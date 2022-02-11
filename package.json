@@ -1,0 +1,15 @@
+{
+  "name": "fnf-to-quaver",
+  "version": "0.0.1",
+  "description": "Converts FNF Charts to Quaver Maps",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "node src/main.js"
+  },
+  "author": "Angel Bot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AngelDTF/FNF-to-Quaver/issues"
+  },
+  "homepage": "https://github.com/AngelDTF/FNF-to-Quaver#readme"
+}
