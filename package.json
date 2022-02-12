@@ -1,6 +1,6 @@
 {
   "name": "fnf-to-quaver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts FNF Charts to Quaver Maps",
   "main": "src/main.js",
   "scripts": {

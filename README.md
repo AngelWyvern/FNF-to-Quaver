@@ -13,9 +13,10 @@ All you need is [NodeJS](https://nodejs.org), nothing else. It's that simple!
 4. Check the `output` folder for the converted `.qua` file
 5. In Quaver, open the Editor
 6. Click `File` > `New Song`
-7. Drag and drop your audio file (for best results, export an mp3 in Audacity of the songs Inst and Vocals)
+7. Drag and drop your audio file (for best results, export an mp3 in Audacity of the song's mixed Inst and Vocals)
 8. Fill the name box with something and continue (this will be overwritten later)
 9. Once you're in the song, press `File` > `Open .qua File`
 10. Overwrite the QUA file with the one previously generated in the `output` folder
 11. ...
 12. Profit!
+##### (side note: if you want to modify the song info, you'll have to go into the editor and press `Edit` > `Edit Metadata`)
